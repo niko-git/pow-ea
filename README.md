@@ -1,1 +1,1 @@
-# pow-ea
+# Sample Eneterprise Architecture

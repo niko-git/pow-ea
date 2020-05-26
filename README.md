@@ -1,1 +1,1 @@
-# Sample Eneterprise Architecture
+# Sample Enterprise Architecture
